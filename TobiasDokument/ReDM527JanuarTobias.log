@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  3 NOV 2020 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  3 NOV 2020 20:40
 entering extended mode
 **./ReDM527JanuarTobias.tex
 (ReDM527JanuarTobias.tex
@@ -262,32 +262,54 @@ File: pictures/opga.png Graphic file (type png)
 <use pictures/opga.png>
 Package pdftex.def Info: pictures/opga.png  used on input line 42.
 (pdftex.def)             Requested size: 123.46092pt x 25.59555pt.
- [1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>] [2] (ReDM527Janu
-arTobias.aux) ) 
+ [1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>]
+<pictures/opgb.png, id=25, 158.09062pt x 24.09pt>
+File: pictures/opgb.png Graphic file (type png)
+<use pictures/opgb.png>
+Package pdftex.def Info: pictures/opgb.png  used on input line 79.
+(pdftex.def)             Requested size: 158.09023pt x 24.08992pt.
+<pictures/opgc.png, id=26, 92.59593pt x 25.59563pt>
+File: pictures/opgc.png Graphic file (type png)
+<use pictures/opgc.png>
+Package pdftex.def Info: pictures/opgc.png  used on input line 85.
+(pdftex.def)             Requested size: 92.59569pt x 25.59555pt.
+
+Overfull \hbox (61.89232pt too wide) detected at line 93
+[]
+ []
+
+<pictures/opgd.png, id=27, 90.3375pt x 21.83156pt>
+File: pictures/opgd.png Graphic file (type png)
+<use pictures/opgd.png>
+Package pdftex.def Info: pictures/opgd.png  used on input line 96.
+(pdftex.def)             Requested size: 90.33727pt x 21.8315pt.
+[2 <./pictures/opgb.png> <./pictures/opgc.png> <./pictures/opgd.png>] [3]
+(ReDM527JanuarTobias.aux) ) 
 Here is how much of TeX's memory you used:
- 3684 strings out of 480790
- 52701 string characters out of 2896832
- 307995 words of memory out of 3000000
- 19659 multiletter control sequences out of 15000+200000
+ 3705 strings out of 480790
+ 53034 string characters out of 2896832
+ 308995 words of memory out of 3000000
+ 19680 multiletter control sequences out of 15000+200000
  540409 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,13n,29p,367b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tobia
-s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
-ers/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.p
-fb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ReDM527JanuarTobias.pdf (3 pages, 138988 bytes).
+ 37i,13n,29p,430b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/To
+bias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Tobias/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on ReDM527JanuarTobias.pdf (4 pages, 151947 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

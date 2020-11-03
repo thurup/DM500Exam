@@ -58,12 +58,13 @@ Ved at indsætte $x_1$ og $x_2$ og sætte deres funktionsværdi lig hinanden, ka
 f(x_1) = f(x_2) \\
 \Rightarrow x^2_1 + x_1 + 1 = x^2_2 + x_2 + 1 && \text{Funktionsværdien indsættes} \\
 \Leftrightarrow x^2_1 + x_1 = x^2_2 + x_2 && \text{1 går ud på begge sider} \\
-\Leftrightarrow x_1^2 = x_2^2 + x_2 - x_1 \\
+\Leftrightarrow x_1^2 = x_2^2 + x_2 - x_1 && \text{$x_1$ trækkes fra på begge sider}\\
 \Rightarrow x_1 = \pm\sqrt{x_2^2 + x_2 - x_1} \\
+\Rightarrow x_1 = \pm\sqrt{k}  && \text{, $k \in \mathbb{R}$}
 \end{align*}
 \end{center}
 
-Da det hurtigt viser sig at $x_1> 0 \vee x_1 < 0 $, må det betyde, at $x_1$ som positiv og negativ værdi kan medføre den samme funktionsværdi, og derfor er \emph{f} ikke injektiv, og derfor automatisk heller ikke bijektiv. For at understrege pointen kan man forsøge sig med $x_1 = 4.91$ og $x_2 = -5.91$ og derfor få:
+Da det hurtigt viser sig at $x_1 \neq k \Rightarrow f(x_1) = f(k)$, må det betyde, at $x_1$ kan have samme funktionsværdi som et andet tal (forskelligt fra $x_1$) i definitonsmængden ($Dm(f) = \mathbb{R}$), og derfor er \emph{f} ikke injektiv, og derfor automatisk heller ikke bijektiv. For at understrege pointen kan man forsøge sig med $x_1 = 4.91$ og $x_2 = -5.91$ og derfor få:
 
 \begin{align*}
 \begin{split}
@@ -74,8 +75,45 @@ f(-5.91) = (-5.91)^2 + 5.91 + 1 \approx 30.02
 Af den grund behøver vi ikke kontrollere, om \emph{f} er surjektiv.
 
 
+\begin{figure}[h]
+\includegraphics[scale=1]{opgb}
+\end{figure}
 
+En funktion \emph{f} har en invers, hvis og kun hvis f er bijektiv. Da vi tidligere har konkluderet at \emph{f} ikke er bijektiv, må det også være tilfældet, at \emph{f} ikke er invertibel og derfor ikke har nogen invers.
 
-Jeg vil bare gerne have det her ind i TKL00OpgSkriv D:
+\begin{figure}[h]
+\includegraphics[scale=1]{opgc}
+\end{figure}
+To funktioner kan adderes ved at addere deres funktionsforskrifter ved brug af standard algebraiske regler
+\begin{align*}
+(f+g)(x) = f(x) + g(x) \\
+\Rightarrow (f+g)(x) = (x^2 + x + 1) + (2x - 2) && \text{f og g indsættes på deres pladser} \\
+= x^2 + x + 1 + 2x - 2 && \text{Parentser fjernes, da der kun indgår + mellem dem} \\
+= x^2 + 3x - 1 \\
+\end{align*}
+
+\begin{figure}[h]
+\includegraphics[scale=1]{opgd}
+\end{figure}
+Den sammensatte funktion $f \circ g$ beregnes på følgende vis:
+\par
+\begin{center}
+\begin{math}
+f \circ g = f(g(x))
+\end{math}
+\end{center}
+
+Indsætter man $f$ i $g$ fås:
+\begin{center}
+\begin{align*}
+g(f(x)) = g(x^2 + x + 1) \\
+= 2 \cdot (x^2 + x + 1) - 2 && \text{udtrykket indsættes i g} \\
+= 2x^2 + 2x + 2 - 2 && \text{Parentesen udregnes} \\
+= 2x^2 + 2x
+\end{align*}
+\end{center}
+
+Dette var løsningen til Opgave 1 i DM527 Reeksamen, Januar 2012.
+
 
 \end{document}
