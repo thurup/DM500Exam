@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  3 NOV 2020 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  3 NOV 2020 17:46
 entering extended mode
 **./ReDM527JanuarTobias.tex
 (ReDM527JanuarTobias.tex
@@ -135,125 +135,103 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks28
+)
+\c@theorem=\count189
+
 (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 fmode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count189
+\l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box47
 ) (ReDM527JanuarTobias.aux)
 \openout1 = `ReDM527JanuarTobias.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
+\scratchcounter=\count191
 \scratchdimen=\dimen147
 \scratchbox=\box48
-\nofMPsegments=\count191
-\nofMParguments=\count192
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count193
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count194
 \MPscratchDim=\dimen148
-\MPnumerator=\count194
-\makeMPintoPDFobject=\count195
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
-sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
-ekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
-y
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.
-sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
-s.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
-)
-[1
+) [1
 
 {C:/Users/Tobias/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 <pictures/Opgave1Formulering.png, id=9, 316.93407pt x 112.92188pt>
 File: pictures/Opgave1Formulering.png Graphic file (type png)
 <use pictures/Opgave1Formulering.png>
-Package pdftex.def Info: pictures/Opgave1Formulering.png  used on input line 36
+Package pdftex.def Info: pictures/Opgave1Formulering.png  used on input line 38
 .
 (pdftex.def)             Requested size: 316.93329pt x 112.92159pt.
 <pictures/opga.png, id=11, 123.46124pt x 25.59563pt>
 File: pictures/opga.png Graphic file (type png)
 <use pictures/opga.png>
-Package pdftex.def Info: pictures/opga.png  used on input line 40.
+Package pdftex.def Info: pictures/opga.png  used on input line 42.
 (pdftex.def)             Requested size: 123.46092pt x 25.59555pt.
- [1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>] (ReDM527JanuarTo
-bias.aux) ) 
+
+[1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>]
+(ReDM527JanuarTobias.aux) ) 
 Here is how much of TeX's memory you used:
- 3019 strings out of 480790
- 44650 string characters out of 2896832
- 297862 words of memory out of 3000000
- 18997 multiletter control sequences out of 15000+200000
- 537583 words of font info for 43 fonts, out of 3000000 for 9000
+ 2620 strings out of 480790
+ 37191 string characters out of 2896832
+ 291815 words of memory out of 3000000
+ 18625 multiletter control sequences out of 15000+200000
+ 537929 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,29p,224b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tobias/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tobias/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/T
-obias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-tt12.pfb>
-Output written on ReDM527JanuarTobias.pdf (2 pages, 99802 bytes).
+ 30i,6n,25p,292b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tob
+ias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ReDM527JanuarTobias.pdf (2 pages, 127160 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
