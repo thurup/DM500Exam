@@ -6,8 +6,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \graphicspath{{pictures/}}
-\usepackage{amsmath}
-\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{amsfonts,amsmath,amssymb,amsthm} 
 \newtheorem{theorem}{Sætning}
 
 \title{DM500 Eksamensopgave}
@@ -42,7 +42,7 @@
 \includegraphics[scale=1]{opga}
 \end{figure}
 \textbf{Svar:}
-For at en afbildning, $\phi: A \rightarrow B$ skal være bijektiv, kræves det, at funktionen både er \emph{injektiv} (one-to-one) og \emph{surjektiv} (onto.
+En afbildning, $\phi: A \rightarrow B$ er bijektiv, hvis og kun hvis funktionen både er \emph{injektiv} (one-to-one) og \emph{surjektiv} (onto).
 
 \begin{theorem}
 $f$ er injektiv, hvis $\forall x_1, x_2 \in Dm(f): x_1 \neq x_2 \rightarrow f(x_1) \neq f(x_2)$
@@ -50,20 +50,28 @@ $f$ er injektiv, hvis $\forall x_1, x_2 \in Dm(f): x_1 \neq x_2 \rightarrow f(x_
 
 Sagt på en anden måde, så skal det for alle værdier af x i definitionsmængden gælde, at x hvis to x-værdier er forskellige fra hinanden, så er deres funktionsværdier det også. Helt basalt vil det sige, at to x-værdier ikke kan dele en y-værdi.
 
-Ved at indsætte $x_1$ og $x_2$ og sætte deres funktionsværdi lig hinanden, kan det afgøres hvorvidt det også betyder, at x-værdierne var ens til at starte med:
+Ved at indsætte $x_1$ og $x_2$ og sætte deres funktionsværdi lig hinanden, kan det afgøres hvorvidt det også betyder, at x-værdierne var ens til at starte med - det skal de være, hvis funktionen skal være injektiv:
 \begin{center}
 \[f(x_1) = x_1^2 + x_1 + 1 \] 
 \[ f(x_2)=x_2^2 + x_2 + 1 \] 
-\begin{math}
-f(x_1) = f(x_2) \Leftrightarrow x^2_1 + x_1 + 1 = x^2_2 + x_2 + 1
-\end{math} 
-\par
-\begin{math}
-\Rightarrow x^2_1 + x_1 = x^2_2 + x_2
-\end{math} 
+\begin{align*}
+f(x_1) = f(x_2) \\
+\Rightarrow x^2_1 + x_1 + 1 = x^2_2 + x_2 + 1 && \text{Funktionsværdien indsættes} \\
+\Leftrightarrow x^2_1 + x_1 = x^2_2 + x_2 && \text{1 går ud på begge sider} \\
+\Leftrightarrow x_1^2 = x_2^2 + x_2 - x_1 \\
+\Rightarrow x_1 = \pm\sqrt{x_2^2 + x_2 - x_1} \\
+\end{align*}
 \end{center}
 
-Definitionen på en injektiv funktion er, 
+Da det hurtigt viser sig at $x_1> 0 \vee x_1 < 0 $, må det betyde, at $x_1$ som positiv og negativ værdi kan medføre den samme funktionsværdi, og derfor er \emph{f} ikke injektiv, og derfor automatisk heller ikke bijektiv. For at understrege pointen kan man forsøge sig med $x_1 = 4.91$ og $x_2 = -5.91$ og derfor få:
+
+\begin{align*}
+\begin{split}
+f(4) = 4.91^2 + 4.91 + 1 \approx 30.02  \\
+f(-5.91) = (-5.91)^2 + 5.91 + 1 \approx 30.02
+\end{split}
+\end{align*}
+Af den grund behøver vi ikke kontrollere, om \emph{f} er surjektiv.
 
 
 
