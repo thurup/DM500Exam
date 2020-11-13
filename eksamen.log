@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  12 NOV 2020 13:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.7)  13 NOV 2020 15:25
 entering extended mode
 **./eksamen.tex
 (eksamen.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18>
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -21,66 +21,62 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2020/06/10 3.45 The Babel package
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2020/06/10 3.45 Babel common definitions
 \babel@savecnt=\count175
 \U@D=\dimen135
 \l@babelnohyphens=\language79
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
 \bbl@dirlevel=\count176
+
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/babel-danish\danish.ld
-f
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/babel-danish\danish.ldf
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 Package babel Info: Making " an active character on input line 82.
-))
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)) (C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
-cfg
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
-f
+ (C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen136
 \Gin@req@width=\dimen137
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
-y
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
- (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count177
 \calc@Bcount=\count178
@@ -93,26 +89,27 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count179
 \calc@Cskip=\skip51
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
-) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen140
 ))
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen141
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count180
@@ -169,16 +166,18 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \xmathstrut@box=\box47
 \xmathstrut@dim=\dimen156
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+)
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+)
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks23
 \thm@bodyfont=\toks24
@@ -192,8 +191,8 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@theorem=\count193
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
-fmode.def
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmo
+de.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count194
 \l__pdf_internal_box=\box48
@@ -215,8 +214,7 @@ LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
-kii
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count195
 \scratchdimen=\dimen157
@@ -230,27 +228,26 @@ kii
 \makeMPintoPDFobject=\count266
 \everyMPtoPDFconversion=\toks30
 )
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
-base.sty
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-bas
+e.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
 
-
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
 
 
-(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1
 
-{C:/Users/Tobias/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/tkl/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 <pictures/Opgave1Formulering.png, id=9, 316.93407pt x 112.92188pt>
 File: pictures/Opgave1Formulering.png Graphic file (type png)
 <use pictures/Opgave1Formulering.png>
@@ -295,33 +292,42 @@ Overfull \hbox (49.47278pt too wide) in paragraph at lines 120--121
 [][] 
  []
 
-[3 <./pictures/2015Opgave1Formulering.png>] [4] (eksamen.aux) ) 
+[3 <./pictures/2015Opgave1Formulering.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+86.
+
+(C:\Users\tkl\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
+ [4]
+[5] (eksamen.aux) ) 
 Here is how much of TeX's memory you used:
- 3714 strings out of 480790
- 53107 string characters out of 2896832
- 308974 words of memory out of 3000000
- 19689 multiletter control sequences out of 15000+200000
+ 3732 strings out of 480790
+ 53211 string characters out of 2898239
+ 308971 words of memory out of 3000000
+ 19704 multiletter control sequences out of 15000+200000
  540716 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,13n,29p,418b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Tobias
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Us
-ers/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tobias/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Tobias/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
-Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mtt12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/symbols/msbm10.pfb>
-Output written on eksamen.pdf (5 pages, 172910 bytes).
+<C:/Users/tkl/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><C:/Users/tkl/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tkl/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tkl/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/tkl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tkl/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/tkl/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/tkl/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/tkl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/tkl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10
+.pfb><C:/Users/tkl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb><C:/Users/tkl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb>
+Output written on eksamen.pdf (6 pages, 173789 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
