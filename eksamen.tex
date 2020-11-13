@@ -33,7 +33,7 @@
 \maketitle
 \end{titlepage}
 
-\section{Reeksamen DM527 Opg 1 - Tobias}
+\section{Reeksamen Januar 2012 Opg. 1 - Tobias}
 \begin{figure}[h]
 \includegraphics[scale=1]{Opgave1Formulering}
 \end{figure}
@@ -88,7 +88,7 @@ Af den grund behøver vi ikke kontrollere, om \emph{f} er surjektiv.
 \begin{align*}
 (f+g)(x) = f(x) + g(x) \\
 \Rightarrow (f+g)(x) = (x^2 + x + 1) + (2x - 2) && \text{f og g indsættes på deres pladser} \\
-= x^2 + x + 1 + 2x - 2 && \text{Parentser fjernes, da der kun indgår + mellem dem} \\
+= x^2 + x + 1 + 2x - 2 && \text{Ophævning af + parentes} \\
 = x^2 + 3x - 1 \\
 \end{align*}
 
@@ -117,7 +117,7 @@ Dette var løsningen til Opgave 1 i DM527 Reeksamen, Januar 2012.
 
 \section{Reeksamen Februar 2015 Opg. 1 - Thomas}
 \begin{figure}[h]
-\includegraphics{2015Opgave1Formulering}
+\includegraphics[scale=0.85]{2015Opgave1Formulering}
 \end{figure}
 
 \subsection*{Opgave a og b}
@@ -181,7 +181,7 @@ Så derfor er
 $\bar{A} = \{ 1, 3, 5, 7, 9, 10, 11, 12, 13, 14, 15 \}$  
 \end{center}
 
-\section{- Philip}
+\section{Eksamen Januar 2009 Opg. 3 - Philip}
 Opgven tager udgangspunkt i opgave 3 fra eksamensættet 2009, samt en ekstra opgave (gengivet som opgave c i det nedenstående).
 Eksamen januar 2009, opgave 3. Opskriv desuden matricen, der repræsenterer relationen R, dog hvor S reduceret til S = \{1,2,...,6\} 
 
@@ -189,5 +189,169 @@ Eksamen januar 2009, opgave 3. Opskriv desuden matricen, der repræsenterer rela
 
 \section{- Sean}
 
+\section{Eksamen Februar 2015 Opg. 3 - Alle}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{2015Opgave3Formulering}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{2015Opgave3FormuleringOver}
+\end{center}
+\end{figure}
+
+
+\subsection{Underopgave a)}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{2015Opgave3FormuleringA}
+\end{center}
+\end{figure}
+
+Hvis en relation, $R$, skal være en partiel ordning, skal relationen være \emph{refleksiv, anti-symmetrisk} og \emph{transitiv}. Mangler den blot én af disse egenskaber, kan relationen ikke være en partiel ordning. Først kontrolleres den refleksive egenskab.
+
+\begin{theorem}
+En relation, $R$, på mængden A er refleksiv hvis $\forall a \in A : (a,a) \in R$
+\end{theorem}
+
+Fordi $R$ er en relation på mængden $\{1, 2, 3, 4\}$ kræves det, at elementerne (1,1), (2,2), (3,3) og (4,4) er indeholdt i $R$. Dette er tilfældet, og $R$ er derfor refleksiv. Næste egenskab er den anti-symmetriske egenskab.
+
+\begin{theorem}
+En relation, $R$, på mængden A er anti-symmetrisk hvis $\forall a,b \in A : (a,b) \in R \Rightarrow (b,a) \notin R \lor a = b$
+\end{theorem}
+
+Vi ser allerede at de refleksive elementer findes i $R$. Derudover ses:
+
+\begin{itemize}
+\item (2,1) men ikke (1,2)
+\item (2,4) men ikke (4,2)
+\item (3,1) men ikke (1,3)
+\item (3,4) men ikke (4,3)
+\item (4,1) men ikke (1,4)
+\end{itemize}
+
+Af den grund er $R$ også anti-symmetrisk. Derfor kontrolleres den transitive egenskab som den sidste:
+
+\begin{theorem}
+En relation, $R$, på mængden A er transitiv hvis $\forall a,b,c \in A : (a,b)\in R \land (b,c)\in R \Rightarrow (a,c) \in R$
+\end{theorem}
+
+Eksempelvis skal (2,1) også findes i $R$ hvis (2,4) og (4,1) eksisterer i R, hvilket også er tilfældet. Elementerne gennemgås slavisk:
+
+\begin{itemize}
+\item Da (1,1) er det eneste element med tallet 1 som første element i et par, er der ikke nogen transitivitet at gennemskue. Af den grund kan vi også se bort fra alle elementer i R, hvor 1 indgår. Generelt undgår vi at undersøge mulige transitive elementer ved refleksive elementer, da de altid giver det element, de bliver sammenlignet med i sidste ende.
+\item (2,4) og (4,1) medfører $(2,1) \in R$ \checkmark
+\item (2,4) og (4,4) medfører $(2,4) \in R$ \checkmark
+\item (3,4) og (4,1) medfører $(3,1) \in R$ \checkmark
+\end{itemize}
+
+Alle de transitive elementer findes i $R$, og $R$ er derfor også transitiv.
+
+Deraf kan det konkluderes, at $R$ er en partiel ordning.
+
+\subsection{Underopgave b)}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{2015Opgave3FormuleringB}
+\end{center}
+\end{figure}
+
+Den transitive lukning af en relation $R$, er givet ved:
+
+\begin{center}
+\begin{math}
+R^* = \bigcup_{i = 1}^\infty R^i
+\end{math}
+\end{center}
+
+hvor $R^i$ er den \emph{i}'te potens af $R$ således at:
+
+\begin{center}
+$R^1 = R$
+\end{center}
+\begin{center}
+$R^{i+1} = R \circ R^i$
+\end{center}
+
+Omvendt kan det siges, at $R^i$ indeholder de elementer, (a,b), hvor man kan gå på en sti af længe \emph{i} fra a til b i en orienteret graf for relationen. Først findes $S^2$, og derefter arbejdes mod $S^3$ indtil der ikke opstår nye elementer i den sammensatte relation. Når man sammensætter to relationer, $S$ og $R$, vil $S \circ R$ indeholde de elementer, (a,c), der opstår, når man går fra (a,b) i $R$ til (b,c) i $S$.
+
+\begin{center}
+\begin{math}
+S^2 = S \circ S = \{(1,3), (1,4), (2,2), (4,4)\}
+\end{math}
+\par
+\begin{math}
+S^3 = S \circ S^2 = \{(1,2), (2,3), (2,4), (4,2))\}
+\end{math}
+\end{center}
+\par 
+Det ses her at $S^3 = S$, og der dannes derfor ikke flere par. Derfor er den transitive lukning af S:
+
+\begin{center}
+\begin{math}
+S^* = S \cup S^2 = \{(1,2), (1,3), (1,4), (2,2), (2,3), (2,4), (4,2), (4,4)\}
+\end{math}
+\end{center}
+
+Følger man samme procedure med at kontrollere de transitive elementer fra opgave a), vil man se, at dette er den transitive lukning.
+
+\subsection{Underopgave c)}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.8]{2015Opgave3FormuleringC}
+\end{center}
+\end{figure}
+
+\begin{theorem}
+En ækvivalensklasse, $[a]_R = \{b \in R | aRb\}$
+\end{theorem}
+
+Sagt på en anden måde er ækvivalensklassen for et element, \emph{a}, i $R$ alle de elementer, som \emph{a} er relateret til. Vi opskriver derfor:
+
+\begin{center}
+$[1]_R = \{1, 3\}$ \par
+$[2]_R = \{2, 4\}$ \par 
+$[3]_R = [1]_R$ \par
+$[4]_R = [2]_R$
+\end{center}
+
+På grund af refleksivitet vil et element altid have sig selv i sin ækvivalensklasse, og symmetrien medfører at to elementer altid vil have hinanden i sine ækvivalensklasser, hvis de er relateret til hinanden. Grundet transitiviteten vil to elementer altid være i hinandens ækvivalensklasse, hvis et tredje element er relateret til dem begge.
+Det ses desuden at ækvivalænsklasserne udgør en partitionering af mængden $C$, som T er en relationen på.
+
+\subsection{Underopgave fra Take-Home-Eksamen}
+\begin{center}
+Opskriv desuden matricerne, der repræsenterer de tre relationer \emph{R, S} og \emph{T}.
+\end{center}
+
+$R$, $S$ og $T$ er alle binære relationer. Hver række, \emph{i}, i matricen, M, beskriver et element, a, og hvis der står et 1-tal på plads $M_i,j$, betyder det, at \emph{a} er relateret til \emph{b}, som er beskrevet i kolonnen \emph{j}. Ellers står der et 0.
+
+\begin{center}
+\begin{math}
+R_M = \begin{bmatrix}
+1 & 0 & 0 & 0 \\
+1 & 1 & 0 & 1 \\
+1 & 0 & 1 & 1 \\
+1 & 0 & 0 & 1 
+\end{bmatrix} 
+\end{math}\par 
+\begin{math}
+S_M = \begin{bmatrix}
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 1 \\
+0 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 
+\end{bmatrix}
+\end{math} \par 
+\begin{math}
+T_M = \begin{bmatrix}
+1 & 0 & 1 & 0 \\
+0 & 1 & 0 & 1 \\
+1 & 0 & 1 & 0 \\
+0 & 1 & 0 & 1 \\
+\end{bmatrix}
+\end{math}
+\end{center}
 
 \end{document}
