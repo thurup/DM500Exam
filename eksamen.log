@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  13 NOV 2020 17:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  13 NOV 2020 17:52
 entering extended mode
 **./eksamen.tex
 (eksamen.tex
@@ -254,64 +254,104 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <pictures/Opgave1Formulering.png, id=9, 316.93407pt x 112.92188pt>
 File: pictures/Opgave1Formulering.png Graphic file (type png)
 <use pictures/Opgave1Formulering.png>
-Package pdftex.def Info: pictures/Opgave1Formulering.png  used on input line 38
+Package pdftex.def Info: pictures/Opgave1Formulering.png  used on input line 42
 .
 (pdftex.def)             Requested size: 316.93329pt x 112.92159pt.
 <pictures/opga.png, id=11, 123.46124pt x 25.59563pt>
 File: pictures/opga.png Graphic file (type png)
 <use pictures/opga.png>
-Package pdftex.def Info: pictures/opga.png  used on input line 42.
+Package pdftex.def Info: pictures/opga.png  used on input line 46.
 (pdftex.def)             Requested size: 123.46092pt x 25.59555pt.
  [1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>]
-<pictures/opgb.png, id=25, 158.09062pt x 24.09pt>
+<pictures/opgb.png, id=23, 158.09062pt x 24.09pt>
 File: pictures/opgb.png Graphic file (type png)
 <use pictures/opgb.png>
-Package pdftex.def Info: pictures/opgb.png  used on input line 79.
+Package pdftex.def Info: pictures/opgb.png  used on input line 83.
 (pdftex.def)             Requested size: 158.09023pt x 24.08992pt.
-<pictures/opgc.png, id=26, 92.59593pt x 25.59563pt>
+<pictures/opgc.png, id=24, 92.59593pt x 25.59563pt>
 File: pictures/opgc.png Graphic file (type png)
 <use pictures/opgc.png>
-Package pdftex.def Info: pictures/opgc.png  used on input line 85.
+Package pdftex.def Info: pictures/opgc.png  used on input line 93.
 (pdftex.def)             Requested size: 92.59569pt x 25.59555pt.
-<pictures/opgd.png, id=27, 90.3375pt x 21.83156pt>
+
+Runaway argument?
+ 
+! Paragraph ended before \align* was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.110 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.110 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+<pictures/opgd.png, id=25, 90.3375pt x 21.83156pt>
 File: pictures/opgd.png Graphic file (type png)
 <use pictures/opgd.png>
-Package pdftex.def Info: pictures/opgd.png  used on input line 96.
+Package pdftex.def Info: pictures/opgd.png  used on input line 112.
 (pdftex.def)             Requested size: 90.33727pt x 21.8315pt.
- [2 <./pictures/opgb.png> <./pictures/opgc.png> <./pictures/opgd.png>]
+[2 <./pictures/opgb.png> <./pictures/opgc.png> <./pictures/opgd.png>]
 <pictures/2015Opgave1Formulering.png, id=34, 394.47375pt x 146.79843pt>
 File: pictures/2015Opgave1Formulering.png Graphic file (type png)
 <use pictures/2015Opgave1Formulering.png>
 Package pdftex.def Info: pictures/2015Opgave1Formulering.png  used on input lin
-e 120.
+e 141.
 (pdftex.def)             Requested size: 335.30426pt x 124.77925pt.
  [3 <./pictures/2015Opgave1Formulering.png>]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-86.
- (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+07.
+
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
-<pictures/2015Opgave3Formulering.png, id=39, 355.3275pt x 37.64063pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
+
+[4]
+<pictures/2015Opgave3Formulering.png, id=42, 355.3275pt x 37.64063pt>
 File: pictures/2015Opgave3Formulering.png Graphic file (type png)
 <use pictures/2015Opgave3Formulering.png>
 Package pdftex.def Info: pictures/2015Opgave3Formulering.png  used on input lin
-e 195.
+e 216.
 (pdftex.def)             Requested size: 319.79178pt x 33.87624pt.
-
-[4]
 <pictures/2015Opgave3FormuleringOver.png, id=43, 337.26pt x 29.35968pt>
 File: pictures/2015Opgave3FormuleringOver.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringOver.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringOver.png  used on input
- line 200.
+ line 221.
 (pdftex.def)             Requested size: 303.53119pt x 26.42345pt.
 <pictures/2015Opgave3FormuleringA.png, id=44, 365.86688pt x 41.4047pt>
 File: pictures/2015Opgave3FormuleringA.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringA.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringA.png  used on input li
-ne 208.
+ne 229.
 (pdftex.def)             Requested size: 329.27715pt x 37.26385pt.
  [5 <./pictures/2015Opgave3Formulering.png> <./pictures/2015Opgave3FormuleringO
 ver.png> <./pictures/2015Opgave3FormuleringA.png>]
@@ -319,17 +359,34 @@ ver.png> <./pictures/2015Opgave3FormuleringA.png>]
 File: pictures/2015Opgave3FormuleringB.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringB.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringB.png  used on input li
-ne 257.
+ne 278.
 (pdftex.def)             Requested size: 235.77869pt x 47.42673pt.
  [6 <./pictures/2015Opgave3FormuleringB.png>]
 <pictures/2015Opgave3FormuleringC.png, id=61, 418.56375pt x 76.03406pt>
 File: pictures/2015Opgave3FormuleringC.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringC.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringC.png  used on input li
-ne 303.
+ne 324.
 (pdftex.def)             Requested size: 334.85144pt x 60.82732pt.
- [7 <./pictures/2015Opgave3FormuleringC.png>] [8]
-(eksamen.aux) ) 
+ [7 <./pictures/2015Opgave3FormuleringC.png>]
+
+! LaTeX Error: \begin{align*} on input line 97 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8] (eksamen.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 97 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
  3771 strings out of 480790
  54726 string characters out of 2896832
@@ -337,27 +394,27 @@ Here is how much of TeX's memory you used:
  19742 multiletter control sequences out of 15000+200000
  541051 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,13n,29p,466b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tobias\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
-ec/dpi600\tcrm1000.pk><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/User
-s/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr17.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Tobias/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Tob
-ias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pf
-b><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb>
-Output written on eksamen.pdf (9 pages, 247958 bytes).
+ 37i,13n,29p,466b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tobias\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1000.pk><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Use
+rs/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr17.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Tobias/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/To
+bias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.p
+fb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/s
+ymbols/msbm10.pfb>
+Output written on eksamen.pdf (9 pages, 249616 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
