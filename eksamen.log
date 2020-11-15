@@ -1,212 +1,184 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.13)  15 NOV 2020 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  15 NOV 2020 13:47
 entering extended mode
 **./eksamen.tex
 (eksamen.tex
-LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-10-27> xparse <2020-03-03>
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
-ls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.cl
-o
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen134
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.
-sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.
-sty
-Package: babel 2020/10/27 3.51 The Babel package
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.
-def
-File: babel.def 2020/10/27 3.51 Babel common definitions
-\babel@savecnt=\count183
-\U@D=\dimen139
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
 \l@babelnohyphens=\language79
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbab
-el.def)
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count184
-
+\bbl@dirlevel=\count176
 *************************************
 * Local config file bblopts.cfg used
 *
-
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.
-cfg
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/babel-danish\d
-anish.ldf
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/babel-danish\danish.ld
+f
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 Package babel Info: Making " an active character on input line 82.
 ))
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
-icx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyva
-l.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
-ics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
-sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
-raphics.cfg
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
-dftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\math
-tools.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
+y
 Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+ (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count185
-\calc@Bcount=\count186
-\calc@Adimen=\dimen142
-\calc@Bdimen=\dimen143
+\calc@Acount=\count177
+\calc@Bcount=\count178
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count187
+\calc@Ccount=\count179
 \calc@Cskip=\skip51
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhse
-tup.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
-)
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmat
-h.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstex
-t.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen
-.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen144
+\ex@=\dimen140
 ))
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy
-.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
+\pmbraise@=\dimen141
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn
-.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count188
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count189
-\leftroot@=\count190
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count191
-\DOTSCASE@=\count192
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen146
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count193
-\c@MaxMatrixCols=\count194
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count183
+\DOTSCASE@=\count184
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
 \dotsspace@=\muskip16
-\c@parentequation=\count195
-\dspbrk@lvl=\count196
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
 \tag@help=\toks19
-\row@=\count197
-\column@=\count198
-\maxfields@=\count199
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
 \andhelp@=\toks20
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
 \@envbody=\toks21
 \multlinegap=\skip53
 \multlinetaggap=\skip54
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count266
-\l_MT_multwidth_dim=\dimen153
+\g_MT_multlinerow_int=\count192
+\l_MT_multwidth_dim=\dimen149
 \origjot=\skip55
-\l_MT_shortvdotswithinadjustabove_dim=\dimen154
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
-\l_MT_above_intertext_sep=\dimen156
-\l_MT_below_intertext_sep=\dimen157
-\l_MT_above_shortintertext_sep=\dimen158
-\l_MT_below_shortintertext_sep=\dimen159
-\xmathstrut@box=\box49
-\xmathstrut@dim=\dimen160
+\l_MT_shortvdotswithinadjustabove_dim=\dimen150
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen151
+\l_MT_above_intertext_sep=\dimen152
+\l_MT_below_intertext_sep=\dimen153
+\l_MT_above_shortintertext_sep=\dimen154
+\l_MT_below_shortintertext_sep=\dimen155
+\xmathstrut@box=\box47
+\xmathstrut@dim=\dimen156
 )
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfo
-nts.sty
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssy
-mb.sty
+) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.
-sty
+) (C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks23
 \thm@bodyfont=\toks24
@@ -218,13 +190,13 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip58
 \dth@everypar=\toks28
 )
-\c@theorem=\count267
+\c@theorem=\count193
 
-(C:\Users\Philip.Thomsen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
-ckend-pdftex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count268
-\l__pdf_internal_box=\box50
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+fmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box48
 ) (eksamen.aux)
 \openout1 = `eksamen.aux'.
 
@@ -240,4 +212,182 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Ch
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen157
+\scratchbox=\box49
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen158
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks30
+)
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+
+
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+
+
+(C:\Users\Tobias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/Tobias/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<pictures/Opgave1Formulering.png, id=9, 316.93407pt x 112.92188pt>
+File: pictures/Opgave1Formulering.png Graphic file (type png)
+<use pictures/Opgave1Formulering.png>
+Package pdftex.def Info: pictures/Opgave1Formulering.png  used on input line 38
+.
+(pdftex.def)             Requested size: 316.93329pt x 112.92159pt.
+<pictures/opga.png, id=11, 123.46124pt x 25.59563pt>
+File: pictures/opga.png Graphic file (type png)
+<use pictures/opga.png>
+Package pdftex.def Info: pictures/opga.png  used on input line 42.
+(pdftex.def)             Requested size: 123.46092pt x 25.59555pt.
+ [1 <./pictures/Opgave1Formulering.png> <./pictures/opga.png>]
+<pictures/opgb.png, id=25, 158.09062pt x 24.09pt>
+File: pictures/opgb.png Graphic file (type png)
+<use pictures/opgb.png>
+Package pdftex.def Info: pictures/opgb.png  used on input line 79.
+(pdftex.def)             Requested size: 158.09023pt x 24.08992pt.
+<pictures/opgc.png, id=26, 92.59593pt x 25.59563pt>
+File: pictures/opgc.png Graphic file (type png)
+<use pictures/opgc.png>
+Package pdftex.def Info: pictures/opgc.png  used on input line 85.
+(pdftex.def)             Requested size: 92.59569pt x 25.59555pt.
+<pictures/opgd.png, id=27, 90.3375pt x 21.83156pt>
+File: pictures/opgd.png Graphic file (type png)
+<use pictures/opgd.png>
+Package pdftex.def Info: pictures/opgd.png  used on input line 96.
+(pdftex.def)             Requested size: 90.33727pt x 21.8315pt.
+ [2 <./pictures/opgb.png> <./pictures/opgc.png> <./pictures/opgd.png>]
+<pictures/2015Opgave1Formulering.png, id=34, 394.47375pt x 146.79843pt>
+File: pictures/2015Opgave1Formulering.png Graphic file (type png)
+<use pictures/2015Opgave1Formulering.png>
+Package pdftex.def Info: pictures/2015Opgave1Formulering.png  used on input lin
+e 120.
+(pdftex.def)             Requested size: 335.30426pt x 124.77925pt.
+ [3 <./pictures/2015Opgave1Formulering.png>] [4]
+<pictures/ABC1.png, id=42, 185.0112pt x 353.6412pt>
+File: pictures/ABC1.png Graphic file (type png)
+<use pictures/ABC1.png>
+Package pdftex.def Info: pictures/ABC1.png  used on input line 203.
+(pdftex.def)             Requested size: 166.50853pt x 318.27412pt.
+ [5 <./pictures/ABC1.png>]
+<pictures/ABC.png, id=48, 867.24pt x 487.8225pt>
+File: pictures/ABC.png Graphic file (type png)
+<use pictures/ABC.png>
+Package pdftex.def Info: pictures/ABC.png  used on input line 227.
+(pdftex.def)             Requested size: 780.5088pt x 439.0362pt.
+
+Overfull \hbox (435.5088pt too wide) in paragraph at lines 227--228
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures/2015Opgave3Formulering.png, id=49, 355.3275pt x 37.64063pt>
+File: pictures/2015Opgave3Formulering.png Graphic file (type png)
+<use pictures/2015Opgave3Formulering.png>
+Package pdftex.def Info: pictures/2015Opgave3Formulering.png  used on input lin
+e 274.
+(pdftex.def)             Requested size: 319.79178pt x 33.87624pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures/2015Opgave3FormuleringOver.png, id=50, 337.26pt x 29.35968pt>
+File: pictures/2015Opgave3FormuleringOver.png Graphic file (type png)
+<use pictures/2015Opgave3FormuleringOver.png>
+Package pdftex.def Info: pictures/2015Opgave3FormuleringOver.png  used on input
+ line 279.
+(pdftex.def)             Requested size: 303.53119pt x 26.42345pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures/2015Opgave3FormuleringA.png, id=51, 365.86688pt x 41.4047pt>
+File: pictures/2015Opgave3FormuleringA.png Graphic file (type png)
+<use pictures/2015Opgave3FormuleringA.png>
+Package pdftex.def Info: pictures/2015Opgave3FormuleringA.png  used on input li
+ne 287.
+(pdftex.def)             Requested size: 329.27715pt x 37.26385pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+<pictures/2015Opgave3FormuleringB.png, id=56, 261.97874pt x 52.69687pt>
+File: pictures/2015Opgave3FormuleringB.png Graphic file (type png)
+<use pictures/2015Opgave3FormuleringB.png>
+Package pdftex.def Info: pictures/2015Opgave3FormuleringB.png  used on input li
+ne 336.
+(pdftex.def)             Requested size: 235.77869pt x 47.42673pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7]
+<pictures/2015Opgave3FormuleringC.png, id=63, 418.56375pt x 76.03406pt>
+File: pictures/2015Opgave3FormuleringC.png Graphic file (type png)
+<use pictures/2015Opgave3FormuleringC.png>
+Package pdftex.def Info: pictures/2015Opgave3FormuleringC.png  used on input li
+ne 382.
+(pdftex.def)             Requested size: 334.85144pt x 60.82732pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9] [10 <./pictures/ABC.png> <./pictures/2015Opgave3Formulering.png> <./pic
+tures/2015Opgave3FormuleringOver.png>] [11 <./pictures/2015Opgave3FormuleringA.
+png> <./pictures/2015Opgave3FormuleringB.png> <./pictures/2015Opgave3Formulerin
+gC.png>] (eksamen.aux) ) 
+Here is how much of TeX's memory you used:
+ 3773 strings out of 480790
+ 54677 string characters out of 2896832
+ 309971 words of memory out of 3000000
+ 19747 multiletter control sequences out of 15000+200000
+ 541051 words of font info for 58 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,13n,29p,466b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tobias\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/User
+s/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Tobias/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tobi
+as/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/
+Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
+msam10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on eksamen.pdf (12 pages, 265119 bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
