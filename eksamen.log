@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  15 NOV 2020 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  15 NOV 2020 16:56
 entering extended mode
 **./eksamen.tex
 (eksamen.tex
@@ -295,20 +295,12 @@ File: pictures/ABC1.png Graphic file (type png)
 Package pdftex.def Info: pictures/ABC1.png  used on input line 204.
 (pdftex.def)             Requested size: 166.50853pt x 318.27412pt.
  [5 <./pictures/ABC1.png>]
-<pictures/ABC.png, id=48, 867.24pt x 487.8225pt>
+<pictures/ABC.png, id=48, 465.99094pt x 135.50626pt>
 File: pictures/ABC.png Graphic file (type png)
 <use pictures/ABC.png>
 Package pdftex.def Info: pictures/ABC.png  used on input line 228.
-(pdftex.def)             Requested size: 780.5088pt x 439.0362pt.
-
-Overfull \hbox (435.5088pt too wide) in paragraph at lines 228--229
- [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6]
+(pdftex.def)             Requested size: 232.99489pt x 67.75294pt.
+ [6 <./pictures/ABC.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 298--301
 
  []
@@ -319,99 +311,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--343
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 369--371
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
-<pictures/2015Opgave3Formulering.png, id=61, 355.3275pt x 37.64063pt>
-File: pictures/2015Opgave3Formulering.png Graphic file (type png)
-<use pictures/2015Opgave3Formulering.png>
-Package pdftex.def Info: pictures/2015Opgave3Formulering.png  used on input lin
-e 384.
-(pdftex.def)             Requested size: 319.79178pt x 33.87624pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures/2015Opgave3FormuleringOver.png, id=62, 337.26pt x 29.35968pt>
+[9]
+<pictures/2015Opgave3FormuleringOver.png, id=65, 337.26pt x 29.35968pt>
 File: pictures/2015Opgave3FormuleringOver.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringOver.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringOver.png  used on input
- line 389.
+ line 382.
 (pdftex.def)             Requested size: 303.53119pt x 26.42345pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures/2015Opgave3FormuleringA.png, id=63, 365.86688pt x 41.4047pt>
+<pictures/2015Opgave3FormuleringA.png, id=66, 365.86688pt x 41.4047pt>
 File: pictures/2015Opgave3FormuleringA.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringA.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringA.png  used on input li
-ne 397.
+ne 390.
 (pdftex.def)             Requested size: 329.27715pt x 37.26385pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9]
-<pictures/2015Opgave3FormuleringB.png, id=68, 261.97874pt x 52.69687pt>
+ [10 <./pictures/2015Opgave3FormuleringOver.png> <./pictures/2015Opgave3Formule
+ringA.png>]
+<pictures/2015Opgave3FormuleringB.png, id=73, 261.97874pt x 52.69687pt>
 File: pictures/2015Opgave3FormuleringB.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringB.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringB.png  used on input li
-ne 446.
+ne 439.
 (pdftex.def)             Requested size: 235.77869pt x 47.42673pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10]
-<pictures/2015Opgave3FormuleringC.png, id=73, 418.56375pt x 76.03406pt>
+ [11 <./pictures/2015Opgave3FormuleringB.png>]
+<pictures/2015Opgave3FormuleringC.png, id=79, 418.56375pt x 76.03406pt>
 File: pictures/2015Opgave3FormuleringC.png Graphic file (type png)
 <use pictures/2015Opgave3FormuleringC.png>
 Package pdftex.def Info: pictures/2015Opgave3FormuleringC.png  used on input li
-ne 492.
+ne 485.
 (pdftex.def)             Requested size: 334.85144pt x 60.82732pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11] [12] [13 <./pictures/ABC.png> <./pictures/2015Opgave3Formulering.png> <./p
-ictures/2015Opgave3FormuleringOver.png>] [14 <./pictures/2015Opgave3Formulering
-A.png> <./pictures/2015Opgave3FormuleringB.png> <./pictures/2015Opgave3Formuler
-ingC.png>] (eksamen.aux) ) 
+ [12 <./pictures/2015Opgave3FormuleringC.png>] [13] (eksamen.aux) ) 
 Here is how much of TeX's memory you used:
- 3803 strings out of 480790
- 55159 string characters out of 2896832
- 310874 words of memory out of 3000000
- 19773 multiletter control sequences out of 15000+200000
+ 3796 strings out of 480790
+ 54922 string characters out of 2896832
+ 309874 words of memory out of 3000000
+ 19766 multiletter control sequences out of 15000+200000
  541051 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,13n,29p,466b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tobias\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Tobias/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tobias/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tobias/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Tobias
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Us
-ers/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.p
-fb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tobias/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tobias/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Tobias/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/To
-bias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C
-:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfo
-nt/line10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/symbols/msam10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on eksamen.pdf (15 pages, 278916 bytes).
+ <C:\Users\T
+obias\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/U
+sers/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Tobias/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tobias/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tobias/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/User
+s/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+<C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmti10.pfb><C:/Users/Tobias/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Tobias/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Tobias/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users
+/Tobias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb>
+Output written on eksamen.pdf (14 pages, 270665 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
+ 142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
