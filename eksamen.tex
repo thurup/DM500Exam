@@ -9,6 +9,7 @@
 \usepackage{mathtools}
 \usepackage{amsfonts,amsmath,amssymb,amsthm} 
 \newtheorem{theorem}{Sætning}
+\usepackage{cancel}
 
 \title{DM500 Eksamensopgave}
 
@@ -266,7 +267,116 @@ R_M = \begin{bmatrix}
 
 
 
-\section{- Sean}
+\section{Reeksamen Februar 2015 Opg 3 - Sean}
+\section{Opgave 3}
+Lad R, S og T være binære relationer på mængden {1, 2, 3, 4}.
+
+
+% Assignments
+\subsection{Opgave A}
+Lad \[R = \{(1, 1),(2, 1),(2, 2),(2, 4),(3, 1),(3, 3),(3, 4),(4, 1),(4, 4)\}\]
+
+Er R en partiel ordning?
+
+\textbf{Svar:}
+{En partiel ordning er en \emph{relation}, $R$, på en mængde,  hvor $R$ er refleksiv, anti-symmetrisk og transitiv. Det bedømmes hvorvidt $R$ besidder disse egenskaber:}
+
+
+\subsubsection{Refleksivitet:}
+Da sætningen \[\forall a \in A : (a,a) \in R\] betyder at en refleksiv ordning skal relatere enhver værdi til sig selv og da denne er opfyldt kan første krav til en partiel ordning krydses af.
+
+
+\subsubsection{Antisymmetri:}
+Hvis en ordning skal være antisymmetrisk gælder at:\par
+\begin{center}
+\begin{math}
+\forall a,b \in A \land a \neq b: aRb \Rightarrow a  $\bcancel{R}$ b
+\end{math}
+\end{center}
+
+
+Her forstås at  Hvis a er relateret til b kan b ikke være relateret til a, medmindre a = b
+En anden måde at se om en mængde er antisymmetrisk er ved hjælp af en matrice.\\
+\textbf{Matrice for R:}\\ 
+
+
+\[R=\begin{bmatrix}
+1 & 0 & 0 & 0\\
+1 & 1 & 0 & 0\\
+1 & 0 & 1 & 1\\
+1 & 0 & 0 & 1
+\end{bmatrix}\]
+
+
+Sammenligner man værdierne diagonalt og man har en forskellig værdi. Gælder dog ikke to ens 0-værdier, da de i så fald ikke er relateret til hinanden på nogen vis, er relationen antisymmetrisk. 
+
+Her kan man se at R altså er antisymmetrisk.
+
+\subsubsection{Transitivitet}
+Her gælder at \[(a,b)\in R \wedge (b,c)\in R \Rightarrow (a,c)\in R, \;  \forall a,b,c \in A\]
+Her har vi en binær relation med mængden 1, 2, 3, 4 hvilken betyder at hvis relationen skal være transitiv, skal alle mægnde værdier være i relation med hinanden.
+Den transitive lukning ser således ud for relationen \[t(R) = \{(1,1), (2,1), (2,2), (2,4), (3,1), (3,3), (3,4), (4,1), (4,4)\} \cup \{(2,3)\}\]
+Her kan vi se relationen forenet med en ny relation, nemlig (2,3), er den transitive lukning af $R$. Af den grund var $R$ ikke transitiv til at starte med, da elementet (2,3) manglede. Da denne ikke er en del a relationen R kan den ikke kaldes transitiv, og dermed er den ikke en partiel ordning.
+
+\vspace{0.5cm}
+
+
+\subsection{Opgave B}
+Lad \[S = \{(1, 2),(2, 3),(2, 4),(4, 2)\}\]
+
+
+Angiv den transitive lukning af S?
+\\\textbf{Svar:}
+
+
+Som tidligere forklaret er den transitive lukning, samlingen af relationer som der kræves for at relatere enhver værdi med enhver anden. Altså \[(a,b)\in R \wedge (b,c)\in R \Rightarrow (a,c)\in R, \;  \forall a,b,c \in A\]
+
+Altså er lukningen også beksrevet som \[S^*=\bigcup_{i=1}^{\infty} S^i\]
+
+Er der en vej fra den oprindelige relation, kommer der en direkte vej i lukningen.
+
+Har $T$ $n$ elementer kan man skrive \[S^*=\bigcup_{i=1}^{|A|} S^4 = t(S)= \{(1, 2),(2, 3),(2, 4),(4, 2)\}. \cup \{(1,3), (1,4),\} \cup \{(3,4)\}\]
+
+
+
+\textbf{Matrice for S:}\\
+
+\[S=\begin{bmatrix}
+0 & 1 & 0 & 0\\
+0 & 0 & 1 & 1\\
+0 & 0 & 0 & 0\\
+0 & 1 & 0 & 0
+\end{bmatrix}\\\]
+
+
+
+\subsection{Opgave C}
+
+Lad \[T = {(1, 1),(1, 3),(2, 2),(2, 4),(3, 1),(3, 3),(4, 2),(4, 4)}\]
+
+Bemærk, at T er en ækvivalens-relation.
+Angiv T's ækvivalens-klasser.
+
+Ækvivalens relationer er relationer der er både symmetriske, transitive og refleksive. 
+
+\textbf{Ækvivalens-klasserne for T som følger \[[a] = \{b \vert (a,b) \in R\}\\\]}
+
+
+
+\[[1]=\{1,3\}\]
+\[[2]=\{2,4\}\\\]
+
+og da \[[1]=[3], [2]=[4]\] fordi \[a\subseteq b\] \[c \in [a] \Rightarrow aRc \Rightarrow bRc \Rightarrow c\in [b]\]
+indgår disse i samme klasse.\\
+
+\textbf{Matrice T:}\\
+
+\[T=\begin{bmatrix}
+1 & 0 & 1 & 0\\
+0 & 1 & 0 & 1\\
+1 & 0 & 1 & 0\\
+0 & 1 & 1 & 0
+\end{bmatrix}\\\]
 
 \section{Eksamen Februar 2015 Opg. 3 - Alle}
 \begin{figure}[h]
