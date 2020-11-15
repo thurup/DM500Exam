@@ -181,9 +181,88 @@ Så derfor er
 $\bar{A} = \{ 1, 3, 5, 7, 9, 10, 11, 12, 13, 14, 15 \}$  
 \end{center}
 
-\section{Eksamen Januar 2009 Opg. 3 - Philip}
-Opgven tager udgangspunkt i opgave 3 fra eksamensættet 2009, samt en ekstra opgave (gengivet som opgave c i det nedenstående).
-Eksamen januar 2009, opgave 3. Opskriv desuden matricen, der repræsenterer relationen R, dog hvor S reduceret til S = \{1,2,...,6\} 
+\section{ Philip}
+Opgven tager udgangspunkt i opgave 3 fra eksamensæt 2009, samt en ekstra opgave (gengivet som opgave c i det nedenstående).
+Eksamen januar 2009, opgave 3. Opskriv desuden matricen, der repræsenterer relationen R, dog hvor S reduceret til $S = \{1,2,...,6\}$
+
+Lad $S = \{1,2,...,15\}$
+
+
+a) Hvilke af nedenstående par tilhører R? Hvilke tilhører $R^2$?
+
+\begin{center}
+     (1,1) , (2,4) , (4,2) , (3,5) , (2,8)
+\end{center}
+
+Vi skal her finde ud af, hvilke par som indeholdeles i R, hvor R er givet, som $R = \{ (a,b)  |  b = 2a\}$.
+For at finde ud af hvilke par, som indeholdes i R opstiller vi relationerne for (a,b) og ser, hvorvidt disse par indgår i S for $R = \{ (a,b)  |  b = 2a\}$.
+
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{ABC1}
+\end{center}
+\end{figure}
+
+Af ovenstående figur ses det, at (2,4) er det eneste, som indgår i S. 
+
+Vi ser nu på, hvilke par som indgår i $R^2$.\\
+$R^2$ betegner det forhold, at 
+
+\begin{center}
+    
+    $R^1 = R$ og $R^{n+1} = R^n \circ\ R$
+    
+\end{center}
+
+Vi finder derfor, at (2,8) indgår i $R^2$, som det eneste par.
+
+
+b) Opskriv all par i den transitative lukning af R.
+Vi skal i denne opgave finde den transitative lukning for ovenstående par. Den transitative lukning kan betegnes som en form for "genvej" mellem relationer således, jf. også nedenstående figur.
+
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.9]{ABC}
+\end{center}
+\end{figure}
+
+Dette kan vi også skrive, som:
+
+\begin{center}
+    $a \geq b$ , $ b \geq c $ og derfor gælder der, at $ a \geq c$
+\end{center}
+
+Vi skal derfor finde de par, som gør at ovenstående forhold om transitivitet gælder. Vi finder derfor, at:
+
+\begin{center}
+     (1,1) , (2,2) , (2,4) , (2,8) , (3,5) , (4,2) , (4,4)  , (4,8)
+\end{center} 
+
+c) Opskriv matricen, der repræsenterer relationen R, dog hvor S reduceret til $S = \{1,2,...,6\}$
+
+R udgør en binær-relation, og vi opskriver derfor matricen, som viser forholdet for $R = \{ (a,b)  |  b = 2a\}$ i 6x6-matricen.
+
+\begin{center}
+\begin{math}
+R_M = \begin{bmatrix}
+0 & 0 & 0 & 0 & 0 & 0\\
+1 & 0 & 0 & 0 & 0 & 0\\
+0 & 0 & 0 & 0 & 0 & 0\\
+0 & 1 & 0 & 0 & 0 & 0\\
+0 & 0 & 0 & 0 & 0 & 0\\
+0 & 0 & 1 & 0 & 0 & 0\\
+
+\end{bmatrix}
+\end{math}
+\end{center}
+
+
+
+
+
+
 
 
 
